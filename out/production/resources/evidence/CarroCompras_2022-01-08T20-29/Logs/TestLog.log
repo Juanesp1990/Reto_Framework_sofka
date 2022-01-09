@@ -1,0 +1,216 @@
+2022-ene-08 20:29:31 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'CarroCompras' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-0.png
+2022-ene-08 20:29:34 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '3''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-1.png
+2022-ene-08 20:29:35 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-2.png
+2022-ene-08 20:29:35 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-3.png
+2022-ene-08 20:29:38 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-4.png
+2022-ene-08 20:29:40 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-5.png
+2022-ene-08 20:29:41 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'benito.llamas@sofmail.com' , Timeout : '2''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-6.png
+2022-ene-08 20:29:42 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-7.png
+2022-ene-08 20:29:46 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'id: uniform-id_gender1' , Timeout : '10''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-8.png
+2022-ene-08 20:29:46 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Micaela' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-9.png
+2022-ene-08 20:29:47 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Vázquez' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-10.png
+2022-ene-08 20:29:47 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '34393332' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-11.png
+2022-ene-08 20:29:48 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : '18' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-12.png
+2022-ene-08 20:29:49 [Test] COMPLETED : Action 'selectByValue' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Value : '7' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-13.png
+2022-ene-08 20:29:50 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : '1988' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-14.png
+2022-ene-08 20:29:50 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Esc. 974 Grupo Ana María, 28 Esc. 658, Zaragoza, Man 53565' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-15.png
+2022-ene-08 20:29:51 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Inca' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-16.png
+2022-ene-08 20:29:51 [Test] COMPLETED : Action 'selectByText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Text : 'Florida' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-17.png
+2022-ene-08 20:29:52 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '83324' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-18.png
+2022-ene-08 20:29:52 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '3489564072' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-19.png
+2022-ene-08 20:29:55 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-20.png
+2022-ene-08 20:29:56 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-21.png
+2022-ene-08 20:29:56 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-22.png
+2022-ene-08 20:29:58 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-23.png
+2022-ene-08 20:30:00 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-24.png
+2022-ene-08 20:30:04 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-25.png
+2022-ene-08 20:30:04 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5' , Extracted Text : 'Your order on My Store is complete.''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioNoRegistrado . Image name: UsuarioNoRegistrado-26.png
+2022-ene-08 20:30:04 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******CarroCompras-UsuarioNoRegistrado
+2022-ene-08 20:30:04 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******CarroCompras-UsuarioNoRegistrado
+2022-ene-08 20:30:05 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******CarroCompras-UsuarioNoRegistrado
+2022-ene-08 20:30:10 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'CarroCompras' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-0.png
+2022-ene-08 20:30:11 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-1.png
+2022-ene-08 20:30:12 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'maricarmen.altamirano@sofmail.com' , Timeout : '2''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-2.png
+2022-ene-08 20:30:13 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-3.png
+2022-ene-08 20:30:15 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'id: uniform-id_gender1' , Timeout : '10''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-4.png
+2022-ene-08 20:30:16 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Carlos' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-5.png
+2022-ene-08 20:30:16 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Rascón' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-6.png
+2022-ene-08 20:30:16 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '41043767' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-7.png
+2022-ene-08 20:30:17 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : '24' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-8.png
+2022-ene-08 20:30:17 [Test] COMPLETED : Action 'selectByValue' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Value : '5' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-9.png
+2022-ene-08 20:30:18 [Test] COMPLETED : Action 'selectByPartialText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Partial Text : '1995' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-10.png
+2022-ene-08 20:30:19 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Esc. 779 Rambla Marcela s/n. Puerta 115, Parla, Cbr 63026' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-11.png
+2022-ene-08 20:30:19 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'Cádiz' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-12.png
+2022-ene-08 20:30:20 [Test] COMPLETED : Action 'selectByText' executed successfully with parameters :
+'Web Element located by : 'No information' , Option Text : 'Florida' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-13.png
+2022-ene-08 20:30:20 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '23699' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-14.png
+2022-ene-08 20:30:20 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : '3920045045' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-15.png
+2022-ene-08 20:30:22 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-16.png
+2022-ene-08 20:30:24 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '3''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-17.png
+2022-ene-08 20:30:24 [Test] COMPLETED : Action 'moveTo' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-18.png
+2022-ene-08 20:30:25 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-19.png
+2022-ene-08 20:30:27 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-20.png
+2022-ene-08 20:30:28 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-21.png
+2022-ene-08 20:30:30 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-22.png
+2022-ene-08 20:30:30 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-23.png
+2022-ene-08 20:30:31 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-24.png
+2022-ene-08 20:30:33 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-25.png
+2022-ene-08 20:30:36 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-26.png
+2022-ene-08 20:30:36 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5' , Extracted Text : 'Your order on My Store is complete.''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\CarroCompras\UsuarioRegistrado . Image name: UsuarioRegistrado-27.png
+2022-ene-08 20:30:36 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******CarroCompras-UsuarioRegistrado
+2022-ene-08 20:30:36 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******CarroCompras-UsuarioRegistrado
+2022-ene-08 20:30:37 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******CarroCompras-UsuarioRegistrado
+2022-ene-08 20:30:42 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'Contactenos' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\Contactenos\InformacionIncompleta . Image name: InformacionIncompleta-0.png
+2022-ene-08 20:30:43 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\Contactenos\InformacionIncompleta . Image name: InformacionIncompleta-1.png
+2022-ene-08 20:30:43 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\Contactenos\InformacionIncompleta . Image name: InformacionIncompleta-2.png
+2022-ene-08 20:30:44 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'vanessa123@gmail.com' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\Contactenos\InformacionIncompleta . Image name: InformacionIncompleta-3.png
+2022-ene-08 20:30:45 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\Contactenos\InformacionIncompleta . Image name: InformacionIncompleta-4.png
+2022-ene-08 20:30:45 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '4' , Extracted Text : 'The message cannot be blank.''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\Contactenos\InformacionIncompleta . Image name: InformacionIncompleta-5.png
+2022-ene-08 20:30:46 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******Contactenos-InformacionIncompleta
+2022-ene-08 20:30:46 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******Contactenos-InformacionIncompleta
+2022-ene-08 20:30:46 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******Contactenos-InformacionIncompleta
+2022-ene-08 20:30:50 [Test] COMPLETED : Action 'startWebApp' executed successfully with parameters :
+'Feature : 'Contactenos' , Url : 'http://automationpractice.com/index.php''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\Contactenos\InformacionCompleta . Image name: InformacionCompleta-0.png
+2022-ene-08 20:30:52 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '2''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\Contactenos\InformacionCompleta . Image name: InformacionCompleta-1.png
+2022-ene-08 20:30:52 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\Contactenos\InformacionCompleta . Image name: InformacionCompleta-2.png
+2022-ene-08 20:30:53 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'vanessa123@gmail.com' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\Contactenos\InformacionCompleta . Image name: InformacionCompleta-3.png
+2022-ene-08 20:30:53 [Test] COMPLETED : Action 'sendText' executed successfully with parameters :
+'Web Element located by : 'No information' , Text : 'No llegaron las tallas correctas para todas las prendas' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\Contactenos\InformacionCompleta . Image name: InformacionCompleta-4.png
+2022-ene-08 20:30:55 [Test] COMPLETED : Action 'click' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '5''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\Contactenos\InformacionCompleta . Image name: InformacionCompleta-5.png
+2022-ene-08 20:30:55 [Test] COMPLETED : Action 'getText' executed successfully with parameters :
+'Web Element located by : 'No information' , Timeout : '4' , Extracted Text : 'Your message has been successfully sent to our team.''.
+		Evidence saved at: C:\Users\JUANES\Desktop\Semana de Retos\RetoFrameworkSofka\src\main\resources\evidence\CarroCompras_2022-01-08T20-29\Contactenos\InformacionCompleta . Image name: InformacionCompleta-6.png
+2022-ene-08 20:30:56 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******Contactenos-InformacionCompleta
+2022-ene-08 20:30:56 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******Contactenos-InformacionCompleta
+2022-ene-08 20:30:56 [Test] INFO  : ***** HA FINALIZADO LA PRUEBA******Contactenos-InformacionCompleta
